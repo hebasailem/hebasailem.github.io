@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jens Rittscher | Heba Sailem</title>
+    <link>/author/jens-rittscher/</link>
+      <atom:link href="/author/jens-rittscher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jens Rittscher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jens Rittscher</title>
+      <link>/author/jens-rittscher/</link>
+    </image>
+    
+    <item>
+      <title>DeepSplit: Segmentation of Microscopy Images Using Multi-Task Convolutional Networks</title>
+      <link>/publication/miua2020/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/miua2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KCML: a machine-learning framework for inference of multi-scale gene functions from genetic perturbation screens</title>
+      <link>/publication/kcml/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kcml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of Rare Phenotypes in Cellular Images Using Weakly Supervised Deep Learning</title>
+      <link>/publication/iccv2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/iccv2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of live cell images: Methods, tools and opportunities</title>
+      <link>/publication/methods2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/methods2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
